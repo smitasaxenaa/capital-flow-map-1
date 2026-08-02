@@ -1,0 +1,3 @@
+tradingview-screener>=3.2.1
+pandas>=2.0
+requests>=2.31
